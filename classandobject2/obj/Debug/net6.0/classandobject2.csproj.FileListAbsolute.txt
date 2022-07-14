@@ -1,0 +1,15 @@
+C:\Users\91810\Desktop\Training\Day 3\myconsole\classandobject2\obj\Debug\net6.0\classandobject2.csproj.AssemblyReference.cache
+C:\Users\91810\Desktop\Training\Day 3\myconsole\classandobject2\obj\Debug\net6.0\classandobject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91810\Desktop\Training\Day 3\myconsole\classandobject2\obj\Debug\net6.0\classandobject2.AssemblyInfoInputs.cache
+C:\Users\91810\Desktop\Training\Day 3\myconsole\classandobject2\obj\Debug\net6.0\classandobject2.AssemblyInfo.cs
+C:\Users\91810\Desktop\Training\Day 3\myconsole\classandobject2\obj\Debug\net6.0\classandobject2.csproj.CoreCompileInputs.cache
+C:\Users\91810\Desktop\Training\Day 3\myconsole\classandobject2\bin\Debug\net6.0\classandobject2.exe
+C:\Users\91810\Desktop\Training\Day 3\myconsole\classandobject2\bin\Debug\net6.0\classandobject2.deps.json
+C:\Users\91810\Desktop\Training\Day 3\myconsole\classandobject2\bin\Debug\net6.0\classandobject2.runtimeconfig.json
+C:\Users\91810\Desktop\Training\Day 3\myconsole\classandobject2\bin\Debug\net6.0\classandobject2.dll
+C:\Users\91810\Desktop\Training\Day 3\myconsole\classandobject2\bin\Debug\net6.0\classandobject2.pdb
+C:\Users\91810\Desktop\Training\Day 3\myconsole\classandobject2\obj\Debug\net6.0\classandobject2.dll
+C:\Users\91810\Desktop\Training\Day 3\myconsole\classandobject2\obj\Debug\net6.0\refint\classandobject2.dll
+C:\Users\91810\Desktop\Training\Day 3\myconsole\classandobject2\obj\Debug\net6.0\classandobject2.pdb
+C:\Users\91810\Desktop\Training\Day 3\myconsole\classandobject2\obj\Debug\net6.0\classandobject2.genruntimeconfig.cache
+C:\Users\91810\Desktop\Training\Day 3\myconsole\classandobject2\obj\Debug\net6.0\ref\classandobject2.dll
